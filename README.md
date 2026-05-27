@@ -23,7 +23,7 @@ Each platform is scored out of 10, with 2 points per dimension:
 
 ## 🗂️ Dataset — `Meghna.xlsx`
 
-Contains hand-coded audit scores for 48 EdTech platforms. All policy documents were sourced from links accessible within 1–2 clicks from each platform's homepage. No login or paywalled content was used. The dataset serves as the seed for the leaderboard and as a ground truth benchmark to validate EduGuard's automated scores against human coding.
+- Contains hand-coded audit scores for 48 EdTech platforms. All policy documents were sourced from links accessible within 1–2 clicks from each platform's homepage. No login or paywalled content was used. The dataset serves as the seed for the leaderboard and as a ground truth benchmark to validate EduGuard's automated scores against human coding.
 ---
 
 ## 🚀 How to Run
